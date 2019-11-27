@@ -48,7 +48,7 @@ Entity{
 
 //    SpectralLocusCurve{}
 
-    ChromaticityLocusCurve{}
+//    ChromaticityLocusCurve{}
 
     ColorMatchingCoefficients{}
 }
