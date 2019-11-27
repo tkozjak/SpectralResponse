@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainScene3D.qml</file>
+        <file>CoordinateSystem.qml</file>
+        <file>SpectralLocusCurve.qml</file>
+        <file>ChromaticityLocusCurve.qml</file>
+        <file>ColorMatchingCoefficients.qml</file>
+    </qresource>
+</RCC>
